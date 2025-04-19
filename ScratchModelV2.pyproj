@@ -1,0 +1,69 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>247cbd12-bfa2-4306-b7cf-b4180f5532a8</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>ScratchModelV2.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>ScratchModelV2</Name>
+    <RootNamespace>ScratchModelV2</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="checktime.py" />
+    <Compile Include="compare_model_to_totals.py" />
+    <Compile Include="compare_yrfi_to_market.py" />
+    <Compile Include="get_scores.py" />
+    <Compile Include="get_todays_matchups.py" />
+    <Compile Include="get_todays_odds.py" />
+    <Compile Include="make_predictions.py" />
+    <Compile Include="odds_scraper_with_fallback.py" />
+    <Compile Include="predict_yrfi.py" />
+    <Compile Include="predict_yrfi_pregame.py" />
+    <Compile Include="prepare_pregame_features.py" />
+    <Compile Include="prepare_pregame_training_data.py" />
+    <Compile Include="scrape_betmgm_yrfi.py" />
+    <Compile Include="scrape_dk_yrfi.py" />
+    <Compile Include="scrape_fanduel_yrfi.py" />
+    <Compile Include="scrape_oddsapi_yrfi.py" />
+    <Compile Include="scrape_oddsboom_yrfi.py" />
+    <Compile Include="ScratchModelV2.py" />
+    <Compile Include="train_pregame_yrfi_model.py" />
+    <Compile Include="train_yrfi_model.py" />
+    <Compile Include="yrfi_dashboard.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="data\mlb_boxscores_cleaned.csv" />
+    <Content Include="data\mlb_model_and_odds.csv" />
+    <Content Include="data\mlb_odds_mybookie.csv" />
+    <Content Include="data\mlb_predictions_all.csv" />
+    <Content Include="data\mlb_predictions_today.csv" />
+    <Content Include="data\mlb_training_ats.csv" />
+    <Content Include="requirements.txt" />
+    <Content Include="run_pipeline.bat" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>

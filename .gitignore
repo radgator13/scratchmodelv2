@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.env
+*.sqlite3
+.vs/
+
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+*.tmp
+pipeline.log
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Streamlit cache
+.streamlit/config.toml
+
+# System
+.DS_Store
+Thumbs.db
