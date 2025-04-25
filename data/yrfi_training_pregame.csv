@@ -308,33 +308,48 @@ Game Date,Away Team,Home Team,Away_YRFI_Rate,Away_Avg_1st,Home_YRFI_Rate,Home_Av
 2025-04-23,Philadelphia Phillies,New York Mets,0.5,0.3,0.4,0.4,0
 2025-04-23,Milwaukee Brewers,San Francisco Giants,0.3,0.3,0.2222222222222222,0.1111111111111111,0
 2025-04-23,Baltimore Orioles,Washington Nationals,0.9,0.6,0.7,1.8,1
-2025-04-24,Tampa Bay Rays,Arizona Diamondbacks,0.3333333333333333,0.0,0.5,0.3,0
+2025-04-24,Tampa Bay Rays,Arizona Diamondbacks,0.5,0.0,0.6,0.4,1
 2025-04-24,Texas Rangers,Athletics,0.6,0.4,0.4,1.0,0
-2025-04-24,Seattle Mariners,Boston Red Sox,0.9,0.8,0.6,0.8,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.4,0.6,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.3,0.5,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.4,0.6,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.3,0.5,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.4,0.6,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.3,0.5,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.4,0.6,0
-2025-04-24,Colorado Rockies,Kansas City Royals,0.4,0.1,0.3,0.5,0
-2025-04-24,Pittsburgh Pirates,Los Angeles Angels,0.2,0.0,0.4444444444444444,0.4444444444444444,0
+2025-04-24,Seattle Mariners,Boston Red Sox,1.0,1.0,0.7,0.9,1
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.5,0.8,1
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.4,0.7,1
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.5,0.8,1
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.4,0.7,1
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.5,0.8,0
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.4,0.7,0
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.5,0.8,0
+2025-04-24,Colorado Rockies,Kansas City Royals,0.5,0.2,0.4,0.7,0
+2025-04-24,Pittsburgh Pirates,Los Angeles Angels,0.3,0.2,0.5555555555555556,0.4444444444444444,1
 2025-04-24,Chicago White Sox,Minnesota Twins,0.5,0.5,0.4,0.4,0
-2025-04-24,Milwaukee Brewers,San Francisco Giants,0.2,0.2,0.2,0.1,0
+2025-04-24,Milwaukee Brewers,San Francisco Giants,0.3,0.3,0.3,0.2,1
 2025-04-24,Baltimore Orioles,Washington Nationals,0.8,0.4,0.7,1.8,0
-2025-04-25,Atlanta Braves,Arizona Diamondbacks,0.7,0.6,0.5,0.3,0
+2025-04-25,Atlanta Braves,Arizona Diamondbacks,0.7,0.6,0.6,0.4,0
 2025-04-25,Chicago White Sox,Athletics,0.5,0.5,0.4,1.0,0
 2025-04-25,Philadelphia Phillies,Chicago Cubs,0.5,0.3,0.5,1.3,0
 2025-04-25,Boston Red Sox,Cleveland Guardians,0.4,0.3,0.4,0.5,0
 2025-04-25,Cincinnati Reds,Colorado Rockies,0.3,0.2,0.3,0.3,0
 2025-04-25,Baltimore Orioles,Detroit Tigers,0.7,0.3,0.3,0.3,0
-2025-04-25,Houston Astros,Kansas City Royals,0.4,0.3,0.3,0.5,0
-2025-04-25,Pittsburgh Pirates,Los Angeles Dodgers,0.2,0.0,0.4,1.1,0
+2025-04-25,Houston Astros,Kansas City Royals,0.4,0.3,0.4,0.7,0
+2025-04-25,Pittsburgh Pirates,Los Angeles Dodgers,0.3,0.2,0.4,1.1,0
 2025-04-25,Los Angeles Angels,Minnesota Twins,0.5,0.5,0.3,0.1,0
 2025-04-25,Toronto Blue Jays,New York Yankees,0.4,0.2,0.6,0.7,0
-2025-04-25,Tampa Bay Rays,San Diego Padres,0.2857142857142857,0.0,0.3,0.5,0
-2025-04-25,Texas Rangers,San Francisco Giants,0.6,0.4,0.1,0.0,0
+2025-04-25,Tampa Bay Rays,San Diego Padres,0.42857142857142855,0.0,0.3,0.5,0
+2025-04-25,Texas Rangers,San Francisco Giants,0.6,0.4,0.2,0.1,0
 2025-04-25,Miami Marlins,Seattle Mariners,0.4,0.4,0.5,0.3,0
-2025-04-25,Milwaukee Brewers,St. Louis Cardinals,0.2,0.2,0.4,0.1,0
+2025-04-25,Milwaukee Brewers,St. Louis Cardinals,0.3,0.3,0.4,0.1,0
 2025-04-25,New York Mets,Washington Nationals,0.4,0.2,0.7,1.8,0
+2025-04-26,Atlanta Braves,Arizona Diamondbacks,0.6,0.6,0.5,0.4,0
+2025-04-26,Chicago White Sox,Athletics,0.4,0.4,0.3,1.0,0
+2025-04-26,Philadelphia Phillies,Chicago Cubs,0.4,0.2,0.4,0.8,0
+2025-04-26,Boston Red Sox,Cleveland Guardians,0.3,0.3,0.4,0.5,0
+2025-04-26,Cincinnati Reds,Colorado Rockies,0.3,0.2,0.3,0.3,0
+2025-04-26,Baltimore Orioles,Detroit Tigers,0.6,0.3,0.3,0.3,0
+2025-04-26,Houston Astros,Kansas City Royals,0.3,0.3,0.3,0.4,0
+2025-04-26,Pittsburgh Pirates,Los Angeles Dodgers,0.3,0.2,0.3,0.9,0
+2025-04-26,Los Angeles Angels,Minnesota Twins,0.5,0.5,0.3,0.1,0
+2025-04-26,Toronto Blue Jays,New York Yankees,0.4,0.2,0.6,0.7,0
+2025-04-26,Tampa Bay Rays,San Diego Padres,0.375,0.0,0.2,0.5,0
+2025-04-26,Texas Rangers,San Francisco Giants,0.6,0.4,0.2,0.1,0
+2025-04-26,Miami Marlins,Seattle Mariners,0.4,0.4,0.4,0.3,0
+2025-04-26,Milwaukee Brewers,St. Louis Cardinals,0.3,0.3,0.3,0.0,0
+2025-04-26,New York Mets,Washington Nationals,0.3,0.2,0.6,1.5,0
