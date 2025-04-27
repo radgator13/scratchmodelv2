@@ -368,15 +368,15 @@ Game Date,Away Team,Away Record,Away Score,Home Team,Home Record,Home Score,Away
 2025-04-23,Philadelphia Phillies,13-12,3.0,New York Mets,18-7,4.0,0.0,0.0,0
 2025-04-23,Milwaukee Brewers,13-12,2.0,San Francisco Giants,16-9,4.0,0.0,0.0,0
 2025-04-23,Baltimore Orioles,9-14,3.0,Washington Nationals,11-13,4.0,0.0,3.0,1
-2025-04-24,Tampa Bay Rays,11-14,7,Arizona Diamondbacks,14-11,4,0.0,1.0,1
-2025-04-24,Texas Rangers,14-11,3,Athletics,12-13,4,0.0,0.0,0
-2025-04-24,Seattle Mariners,14-11,4,Boston Red Sox,14-13,3,2.0,1.0,1
-2025-04-24,Colorado Rockies,4-19,4,Kansas City Royals,11-14,7,1.0,2.0,1
-2025-04-24,Colorado Rockies,4-20,2,Kansas City Royals,12-14,6,0.0,0.0,0
-2025-04-24,Pittsburgh Pirates,10-16,3,Los Angeles Angels,12-12,4,2.0,0.0,1
-2025-04-24,Chicago White Sox,6-19,3,Minnesota Twins,9-16,0,0.0,0.0,0
-2025-04-24,Milwaukee Brewers,13-13,5,San Francisco Giants,17-9,6,1.0,1.0,1
-2025-04-24,Baltimore Orioles,10-14,2,Washington Nationals,11-14,1,0.0,0.0,0
+2025-04-24,Tampa Bay Rays,11-14,7.0,Arizona Diamondbacks,14-11,4.0,0.0,1.0,1
+2025-04-24,Texas Rangers,14-11,3.0,Athletics,12-13,4.0,0.0,0.0,0
+2025-04-24,Seattle Mariners,14-11,4.0,Boston Red Sox,14-13,3.0,2.0,1.0,1
+2025-04-24,Colorado Rockies,4-19,4.0,Kansas City Royals,11-14,7.0,1.0,2.0,1
+2025-04-24,Colorado Rockies,4-20,2.0,Kansas City Royals,12-14,6.0,0.0,0.0,0
+2025-04-24,Pittsburgh Pirates,10-16,3.0,Los Angeles Angels,12-12,4.0,2.0,0.0,1
+2025-04-24,Chicago White Sox,6-19,3.0,Minnesota Twins,9-16,0.0,0.0,0.0,0
+2025-04-24,Milwaukee Brewers,13-13,5.0,San Francisco Giants,17-9,6.0,1.0,1.0,1
+2025-04-24,Baltimore Orioles,10-14,2.0,Washington Nationals,11-14,1.0,0.0,0.0,0
 2025-04-25,Atlanta Braves,10-14,,Arizona Diamondbacks,14-11,,0.0,0.0,0
 2025-04-25,Chicago White Sox,6-19,,Athletics,12-13,,0.0,0.0,0
 2025-04-25,Philadelphia Phillies,13-12,,Chicago Cubs,16-10,,0.0,0.0,0
@@ -392,18 +392,44 @@ Game Date,Away Team,Away Record,Away Score,Home Team,Home Record,Home Score,Away
 2025-04-25,Miami Marlins,11-13,,Seattle Mariners,14-11,,0.0,0.0,0
 2025-04-25,Milwaukee Brewers,13-13,,St. Louis Cardinals,10-15,,0.0,0.0,0
 2025-04-25,New York Mets,18-7,,Washington Nationals,11-14,,0.0,0.0,0
-2025-04-26,Atlanta Braves,10-14,,Arizona Diamondbacks,14-11,,0.0,0.0,0
-2025-04-26,Chicago White Sox,6-19,,Athletics,12-13,,0.0,0.0,0
-2025-04-26,Philadelphia Phillies,13-12,,Chicago Cubs,16-10,,0.0,0.0,0
-2025-04-26,Boston Red Sox,14-13,,Cleveland Guardians,14-10,,0.0,0.0,0
-2025-04-26,Cincinnati Reds,12-13,,Colorado Rockies,4-20,,0.0,0.0,0
-2025-04-26,Baltimore Orioles,10-14,,Detroit Tigers,15-10,,0.0,0.0,0
-2025-04-26,Houston Astros,13-11,,Kansas City Royals,12-14,,0.0,0.0,0
-2025-04-26,Pittsburgh Pirates,10-16,,Los Angeles Dodgers,16-9,,0.0,0.0,0
-2025-04-26,Los Angeles Angels,12-12,,Minnesota Twins,9-16,,0.0,0.0,0
-2025-04-26,Toronto Blue Jays,12-13,,New York Yankees,15-10,,0.0,0.0,0
-2025-04-26,Tampa Bay Rays,11-14,,San Diego Padres,17-8,,0.0,0.0,0
-2025-04-26,Texas Rangers,14-11,,San Francisco Giants,17-9,,0.0,0.0,0
-2025-04-26,Miami Marlins,11-13,,Seattle Mariners,14-11,,0.0,0.0,0
-2025-04-26,Milwaukee Brewers,13-13,,St. Louis Cardinals,10-15,,0.0,0.0,0
-2025-04-26,New York Mets,18-7,,Washington Nationals,11-14,,0.0,0.0,0
+2025-04-26,Atlanta Braves,12-14,8,Arizona Diamondbacks,14-13,7,1.0,0.0,1
+2025-04-26,Chicago White Sox,7-20,10,Athletics,13-14,3,4.0,0.0,1
+2025-04-26,Philadelphia Phillies,14-13,10,Chicago Cubs,17-11,4,0.0,0.0,0
+2025-04-26,Boston Red Sox,14-14,4,Cleveland Guardians,15-10,5,3.0,4.0,1
+2025-04-26,Boston Red Sox,15-14,7,Cleveland Guardians,15-11,3,1.0,0.0,1
+2025-04-26,Cincinnati Reds,14-13,6,Colorado Rockies,4-22,4,0.0,0.0,0
+2025-04-26,Baltimore Orioles,10-15,3,Detroit Tigers,16-10,4,0.0,0.0,0
+2025-04-26,Baltimore Orioles,10-16,2,Detroit Tigers,17-10,6,0.0,0.0,0
+2025-04-26,Houston Astros,13-13,0,Kansas City Royals,14-14,2,0.0,1.0,1
+2025-04-26,Pittsburgh Pirates,11-17,4,Los Angeles Dodgers,17-10,8,1.0,2.0,1
+2025-04-26,Los Angeles Angels,12-14,1,Minnesota Twins,11-16,5,0.0,3.0,1
+2025-04-26,Toronto Blue Jays,13-13,,New York Yankees,15-11,,0.0,0.0,0
+2025-04-26,Tampa Bay Rays,13-14,4,San Diego Padres,17-10,1,0.0,0.0,0
+2025-04-26,Texas Rangers,15-12,2,San Francisco Giants,18-10,3,1.0,0.0,1
+2025-04-26,Miami Marlins,12-14,0,Seattle Mariners,15-12,14,0.0,6.0,1
+2025-04-26,Milwaukee Brewers,13-15,5,St. Louis Cardinals,12-15,6,0.0,0.0,0
+2025-04-26,New York Mets,19-8,2,Washington Nationals,12-15,0,0.0,0.0,0
+2025-04-27,Atlanta Braves,12-14,,Arizona Diamondbacks,14-13,,0.0,0.0,0
+2025-04-27,Chicago White Sox,7-20,,Athletics,13-14,,0.0,0.0,0
+2025-04-27,Philadelphia Phillies,14-13,,Chicago Cubs,17-11,,0.0,0.0,0
+2025-04-27,Boston Red Sox,15-14,,Cleveland Guardians,15-11,,0.0,0.0,0
+2025-04-27,Cincinnati Reds,14-13,,Colorado Rockies,4-22,,0.0,0.0,0
+2025-04-27,Baltimore Orioles,10-16,,Detroit Tigers,17-10,,0.0,0.0,0
+2025-04-27,Houston Astros,13-13,,Kansas City Royals,14-14,,0.0,0.0,0
+2025-04-27,Pittsburgh Pirates,11-17,,Los Angeles Dodgers,17-10,,0.0,0.0,0
+2025-04-27,Los Angeles Angels,12-14,,Minnesota Twins,11-16,,0.0,0.0,0
+2025-04-27,Toronto Blue Jays,13-13,,New York Yankees,15-11,,0.0,0.0,0
+2025-04-27,Toronto Blue Jays,13-13,,New York Yankees,15-11,,0.0,0.0,0
+2025-04-27,Tampa Bay Rays,13-14,,San Diego Padres,17-10,,0.0,0.0,0
+2025-04-27,Texas Rangers,15-12,,San Francisco Giants,18-10,,0.0,0.0,0
+2025-04-27,Miami Marlins,12-14,,Seattle Mariners,15-12,,0.0,0.0,0
+2025-04-27,Milwaukee Brewers,13-15,,St. Louis Cardinals,12-15,,0.0,0.0,0
+2025-04-27,New York Mets,19-8,,Washington Nationals,12-15,,0.0,0.0,0
+2025-04-28,New York Yankees,15-11,,Baltimore Orioles,10-16,,0.0,0.0,0
+2025-04-28,St. Louis Cardinals,12-15,,Cincinnati Reds,14-13,,0.0,0.0,0
+2025-04-28,Minnesota Twins,11-16,,Cleveland Guardians,15-11,,0.0,0.0,0
+2025-04-28,Atlanta Braves,12-14,,Colorado Rockies,4-22,,0.0,0.0,0
+2025-04-28,Detroit Tigers,17-10,,Houston Astros,13-13,,0.0,0.0,0
+2025-04-28,Miami Marlins,12-14,,Los Angeles Dodgers,17-10,,0.0,0.0,0
+2025-04-28,Athletics,13-14,,Texas Rangers,15-12,,0.0,0.0,0
+2025-04-28,New York Mets,19-8,,Washington Nationals,12-15,,0.0,0.0,0
