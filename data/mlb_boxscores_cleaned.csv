@@ -392,23 +392,23 @@ Game Date,Away Team,Away Record,Away Score,Home Team,Home Record,Home Score,Away
 2025-04-25,Miami Marlins,11-13,,Seattle Mariners,14-11,,0.0,0.0,0
 2025-04-25,Milwaukee Brewers,13-13,,St. Louis Cardinals,10-15,,0.0,0.0,0
 2025-04-25,New York Mets,18-7,,Washington Nationals,11-14,,0.0,0.0,0
-2025-04-26,Atlanta Braves,12-14,8,Arizona Diamondbacks,14-13,7,1.0,0.0,1
-2025-04-26,Chicago White Sox,7-20,10,Athletics,13-14,3,4.0,0.0,1
-2025-04-26,Philadelphia Phillies,14-13,10,Chicago Cubs,17-11,4,0.0,0.0,0
-2025-04-26,Boston Red Sox,14-14,4,Cleveland Guardians,15-10,5,3.0,4.0,1
-2025-04-26,Boston Red Sox,15-14,7,Cleveland Guardians,15-11,3,1.0,0.0,1
-2025-04-26,Cincinnati Reds,14-13,6,Colorado Rockies,4-22,4,0.0,0.0,0
-2025-04-26,Baltimore Orioles,10-15,3,Detroit Tigers,16-10,4,0.0,0.0,0
-2025-04-26,Baltimore Orioles,10-16,2,Detroit Tigers,17-10,6,0.0,0.0,0
-2025-04-26,Houston Astros,13-13,0,Kansas City Royals,14-14,2,0.0,1.0,1
-2025-04-26,Pittsburgh Pirates,11-17,4,Los Angeles Dodgers,17-10,8,1.0,2.0,1
-2025-04-26,Los Angeles Angels,12-14,1,Minnesota Twins,11-16,5,0.0,3.0,1
+2025-04-26,Atlanta Braves,12-14,8.0,Arizona Diamondbacks,14-13,7.0,1.0,0.0,1
+2025-04-26,Chicago White Sox,7-20,10.0,Athletics,13-14,3.0,4.0,0.0,1
+2025-04-26,Philadelphia Phillies,14-13,10.0,Chicago Cubs,17-11,4.0,0.0,0.0,0
+2025-04-26,Boston Red Sox,14-14,4.0,Cleveland Guardians,15-10,5.0,3.0,4.0,1
+2025-04-26,Boston Red Sox,15-14,7.0,Cleveland Guardians,15-11,3.0,1.0,0.0,1
+2025-04-26,Cincinnati Reds,14-13,6.0,Colorado Rockies,4-22,4.0,0.0,0.0,0
+2025-04-26,Baltimore Orioles,10-15,3.0,Detroit Tigers,16-10,4.0,0.0,0.0,0
+2025-04-26,Baltimore Orioles,10-16,2.0,Detroit Tigers,17-10,6.0,0.0,0.0,0
+2025-04-26,Houston Astros,13-13,0.0,Kansas City Royals,14-14,2.0,0.0,1.0,1
+2025-04-26,Pittsburgh Pirates,11-17,4.0,Los Angeles Dodgers,17-10,8.0,1.0,2.0,1
+2025-04-26,Los Angeles Angels,12-14,1.0,Minnesota Twins,11-16,5.0,0.0,3.0,1
 2025-04-26,Toronto Blue Jays,13-13,,New York Yankees,15-11,,0.0,0.0,0
-2025-04-26,Tampa Bay Rays,13-14,4,San Diego Padres,17-10,1,0.0,0.0,0
-2025-04-26,Texas Rangers,15-12,2,San Francisco Giants,18-10,3,1.0,0.0,1
-2025-04-26,Miami Marlins,12-14,0,Seattle Mariners,15-12,14,0.0,6.0,1
-2025-04-26,Milwaukee Brewers,13-15,5,St. Louis Cardinals,12-15,6,0.0,0.0,0
-2025-04-26,New York Mets,19-8,2,Washington Nationals,12-15,0,0.0,0.0,0
+2025-04-26,Tampa Bay Rays,13-14,4.0,San Diego Padres,17-10,1.0,0.0,0.0,0
+2025-04-26,Texas Rangers,15-12,2.0,San Francisco Giants,18-10,3.0,1.0,0.0,1
+2025-04-26,Miami Marlins,12-14,0.0,Seattle Mariners,15-12,14.0,0.0,6.0,1
+2025-04-26,Milwaukee Brewers,13-15,5.0,St. Louis Cardinals,12-15,6.0,0.0,0.0,0
+2025-04-26,New York Mets,19-8,2.0,Washington Nationals,12-15,0.0,0.0,0.0,0
 2025-04-27,Atlanta Braves,12-14,,Arizona Diamondbacks,14-13,,0.0,0.0,0
 2025-04-27,Chicago White Sox,7-20,,Athletics,13-14,,0.0,0.0,0
 2025-04-27,Philadelphia Phillies,14-13,,Chicago Cubs,17-11,,0.0,0.0,0
@@ -433,3 +433,44 @@ Game Date,Away Team,Away Record,Away Score,Home Team,Home Record,Home Score,Away
 2025-04-28,Miami Marlins,12-14,,Los Angeles Dodgers,17-10,,0.0,0.0,0
 2025-04-28,Athletics,13-14,,Texas Rangers,15-12,,0.0,0.0,0
 2025-04-28,New York Mets,19-8,,Washington Nationals,12-15,,0.0,0.0,0
+2025-05-03,Los Angeles Dodgers,23-10,10,Atlanta Braves,14-18,3,0.0,0.0,0
+2025-05-03,Kansas City Royals,18-16,4,Baltimore Orioles,13-19,0,0.0,0.0,0
+2025-05-03,Minnesota Twins,14-20,4,Boston Red Sox,18-17,3,0.0,0.0,0
+2025-05-03,Houston Astros,17-15,8,Chicago White Sox,9-24,3,0.0,3.0,1
+2025-05-03,Washington Nationals,15-19,11,Cincinnati Reds,18-16,6,2.0,2.0,1
+2025-05-03,Detroit Tigers,21-13,2,Los Angeles Angels,13-19,5,0.0,0.0,0
+2025-05-03,Athletics,18-16,6,Miami Marlins,13-19,9,1.0,0.0,1
+2025-05-03,Chicago Cubs,21-13,6,Milwaukee Brewers,16-18,2,1.0,0.0,1
+2025-05-03,Tampa Bay Rays,15-18,3,New York Yankees,19-14,2,0.0,1.0,1
+2025-05-03,Arizona Diamondbacks,17-16,2,Philadelphia Phillies,19-14,7,0.0,0.0,0
+2025-05-03,San Diego Padres,21-11,2,Pittsburgh Pirates,12-22,1,0.0,0.0,0
+2025-05-03,Colorado Rockies,6-27,3,San Francisco Giants,21-13,6,0.0,0.0,0
+2025-05-03,New York Mets,22-11,,St. Louis Cardinals,14-19,,0.0,0.0,0
+2025-05-03,Seattle Mariners,20-12,2,Texas Rangers,16-18,1,1.0,0.0,1
+2025-05-03,Cleveland Guardians,19-14,5,Toronto Blue Jays,16-17,3,0.0,1.0,1
+2025-05-04,Los Angeles Dodgers,23-10,,Atlanta Braves,14-18,,0.0,0.0,0
+2025-05-04,Kansas City Royals,18-16,,Baltimore Orioles,13-19,,0.0,0.0,0
+2025-05-04,Minnesota Twins,14-20,,Boston Red Sox,18-17,,0.0,0.0,0
+2025-05-04,Houston Astros,17-15,,Chicago White Sox,9-24,,0.0,0.0,0
+2025-05-04,Washington Nationals,15-19,,Cincinnati Reds,18-16,,0.0,0.0,0
+2025-05-04,Detroit Tigers,21-13,,Los Angeles Angels,13-19,,0.0,0.0,0
+2025-05-04,Athletics,18-16,,Miami Marlins,13-19,,0.0,0.0,0
+2025-05-04,Chicago Cubs,21-13,,Milwaukee Brewers,16-18,,0.0,0.0,0
+2025-05-04,Tampa Bay Rays,15-18,,New York Yankees,19-14,,0.0,0.0,0
+2025-05-04,Arizona Diamondbacks,17-16,,Philadelphia Phillies,19-14,,0.0,0.0,0
+2025-05-04,San Diego Padres,21-11,,Pittsburgh Pirates,12-22,,0.0,0.0,0
+2025-05-04,Colorado Rockies,6-27,,San Francisco Giants,21-13,,0.0,0.0,0
+2025-05-04,New York Mets,22-11,,St. Louis Cardinals,14-19,,0.0,0.0,0
+2025-05-04,New York Mets,22-11,,St. Louis Cardinals,14-19,,0.0,0.0,0
+2025-05-04,Seattle Mariners,20-12,,Texas Rangers,16-18,,0.0,0.0,0
+2025-05-04,Cleveland Guardians,19-14,,Toronto Blue Jays,16-17,,0.0,0.0,0
+2025-05-05,New York Mets,22-11,,Arizona Diamondbacks,17-16,,0.0,0.0,0
+2025-05-05,Seattle Mariners,20-12,,Athletics,18-16,,0.0,0.0,0
+2025-05-05,Cincinnati Reds,18-16,,Atlanta Braves,14-18,,0.0,0.0,0
+2025-05-05,San Francisco Giants,21-13,,Chicago Cubs,21-13,,0.0,0.0,0
+2025-05-05,Chicago White Sox,9-24,,Kansas City Royals,18-16,,0.0,0.0,0
+2025-05-05,Los Angeles Dodgers,23-10,,Miami Marlins,13-19,,0.0,0.0,0
+2025-05-05,Houston Astros,17-15,,Milwaukee Brewers,16-18,,0.0,0.0,0
+2025-05-05,San Diego Padres,21-11,,New York Yankees,19-14,,0.0,0.0,0
+2025-05-05,Pittsburgh Pirates,12-22,,St. Louis Cardinals,14-19,,0.0,0.0,0
+2025-05-05,Cleveland Guardians,19-14,,Washington Nationals,15-19,,0.0,0.0,0
