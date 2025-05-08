@@ -458,20 +458,20 @@ Game Date,Away Team,Home Team,Away_YRFI_Rate,Away_Avg_1st,Home_YRFI_Rate,Home_Av
 2025-05-06,San Diego Padres,New York Yankees,0.3,0.2,0.2,0.1,0
 2025-05-06,Pittsburgh Pirates,St. Louis Cardinals,0.2,0.3,0.1,0.0,0
 2025-05-06,Philadelphia Phillies,Tampa Bay Rays,0.3,0.2,0.7,0.4,0
-2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.4,0.9,1
+2025-05-06,Cleveland Guardians,Washington Nationals,0.3,0.0,0.3,0.8,1
+2025-05-06,Cleveland Guardians,Washington Nationals,0.3,0.0,0.3,0.6,1
+2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.3,0.8,1
 2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.3,0.6,1
-2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.4,0.9,1
-2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.3,0.6,1
-2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.4,0.9,0
-2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.3,0.6,0
-2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.4,0.9,0
+2025-05-06,Cleveland Guardians,Washington Nationals,0.3,0.0,0.3,0.8,0
+2025-05-06,Cleveland Guardians,Washington Nationals,0.3,0.0,0.3,0.6,0
+2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.3,0.8,0
 2025-05-06,Cleveland Guardians,Washington Nationals,0.4,0.1,0.3,0.6,0
 2025-05-07,New York Mets,Arizona Diamondbacks,0.0,0.0,0.4,0.2,0
-2025-05-07,Seattle Mariners,Athletics,0.7,0.9,0.4,0.5,0
-2025-05-07,Cincinnati Reds,Atlanta Braves,0.2,0.1,0.3,0.3,0
+2025-05-07,Seattle Mariners,Athletics,0.8,0.9,0.5,0.8,1
+2025-05-07,Cincinnati Reds,Atlanta Braves,0.3,0.3,0.4,0.3,1
 2025-05-07,Texas Rangers,Boston Red Sox,0.6,0.5,0.6,0.5,0
-2025-05-07,San Francisco Giants,Chicago Cubs,0.4,0.7,0.3,0.8,0
-2025-05-07,Detroit Tigers,Colorado Rockies,0.3,0.3,0.1,0.0,0
+2025-05-07,San Francisco Giants,Chicago Cubs,0.5,0.8,0.4,0.8,1
+2025-05-07,Detroit Tigers,Colorado Rockies,0.4,0.3,0.2,0.2,1
 2025-05-07,Chicago White Sox,Kansas City Royals,0.2,0.5,0.2,0.3,0
 2025-05-07,Toronto Blue Jays,Los Angeles Angels,0.3,0.2,0.3,0.2,0
 2025-05-07,Los Angeles Dodgers,Miami Marlins,0.3,0.5,0.5,0.4,0
@@ -482,17 +482,32 @@ Game Date,Away Team,Home Team,Away_YRFI_Rate,Away_Avg_1st,Home_YRFI_Rate,Home_Av
 2025-05-07,Philadelphia Phillies,Tampa Bay Rays,0.3,0.2,0.6,0.3,0
 2025-05-07,Cleveland Guardians,Washington Nationals,0.4,0.1,0.2,0.4,0
 2025-05-08,Los Angeles Dodgers,Arizona Diamondbacks,0.2,0.4,0.3,0.2,0
-2025-05-08,Cincinnati Reds,Atlanta Braves,0.2,0.1,0.2,0.2,0
+2025-05-08,Cincinnati Reds,Atlanta Braves,0.3,0.3,0.3,0.2,0
 2025-05-08,Texas Rangers,Boston Red Sox,0.5,0.4,0.6,0.5,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.1,0.0,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.1,0.0,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.1,0.2,0.1,0.0,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.1,0.2,0.1,0.0,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.1,0.0,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.1,0.0,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.1,0.2,0.1,0.0,0
-2025-05-08,Detroit Tigers,Colorado Rockies,0.1,0.2,0.1,0.0,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.3,0.2,0.2,0.2,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.3,0.2,0.2,0.2,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.2,0.2,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.2,0.2,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.3,0.2,0.2,0.2,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.3,0.2,0.2,0.2,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.2,0.2,0
+2025-05-08,Detroit Tigers,Colorado Rockies,0.2,0.2,0.2,0.2,0
 2025-05-08,Chicago White Sox,Kansas City Royals,0.1,0.4,0.2,0.3,0
 2025-05-08,Toronto Blue Jays,Los Angeles Angels,0.2,0.2,0.3,0.2,0
 2025-05-08,Baltimore Orioles,Minnesota Twins,0.2,0.0,0.1,0.3,0
 2025-05-08,Philadelphia Phillies,Tampa Bay Rays,0.2,0.0,0.5,0.1,0
+2025-05-09,Los Angeles Dodgers,Arizona Diamondbacks,0.2,0.4,0.3,0.2,0
+2025-05-09,New York Yankees,Athletics,0.5,0.7,0.5,0.8,0
+2025-05-09,Miami Marlins,Chicago White Sox,0.4,0.2,0.4,0.6,0
+2025-05-09,Philadelphia Phillies,Cleveland Guardians,0.2,0.0,0.4,0.5,0
+2025-05-09,San Diego Padres,Colorado Rockies,0.3,0.2,0.1,0.2,0
+2025-05-09,Texas Rangers,Detroit Tigers,0.4,0.4,0.2,0.3,0
+2025-05-09,Cincinnati Reds,Houston Astros,0.3,0.3,0.4,0.3,0
+2025-05-09,Boston Red Sox,Kansas City Royals,0.4,0.5,0.2,0.3,0
+2025-05-09,Baltimore Orioles,Los Angeles Angels,0.1,0.0,0.2,0.2,0
+2025-05-09,San Francisco Giants,Minnesota Twins,0.4,0.8,0.1,0.3,0
+2025-05-09,Chicago Cubs,New York Mets,0.1,0.1,0.4,0.4,0
+2025-05-09,Atlanta Braves,Pittsburgh Pirates,0.5,0.4,0.4,0.3,0
+2025-05-09,Toronto Blue Jays,Seattle Mariners,0.2,0.2,0.4,0.9,0
+2025-05-09,Milwaukee Brewers,Tampa Bay Rays,0.2,0.3,0.4,0.0,0
+2025-05-09,St. Louis Cardinals,Washington Nationals,0.2,0.1,0.1,0.1,0
